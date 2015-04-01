@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DifferentLanguagesDisplay</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_espanol">hola mundo</string>
+    <string name="hello_russian">Здравствулте мир</string>
+    <string name="action_settings">Settings</string>
+</resources>
